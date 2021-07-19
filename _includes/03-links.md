@@ -1,3 +1,3 @@
-# Relevant Links
+## Relevant Links
 
 [GitHub](https://github.com/connells102)
