@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Winx 3
+* Thinking creatively
+* Collborating with my coworkers on programming projects
+* Designing web pages
+* Looking at pretty things
