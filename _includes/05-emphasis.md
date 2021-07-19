@@ -1,4 +1,4 @@
-# Some More Information about Me
+## Some More Information about Me
 
 - *Loves* working with other people
 - My favorite language right now is **Typescript**
